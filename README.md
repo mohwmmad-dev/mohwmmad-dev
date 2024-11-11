@@ -22,3 +22,6 @@
 <a href="https://instagram.com/mohwmmad_dev"><img src="https://github.com/mohwmmad-dev/mohwmmad-dev/blob/86fa88d9f3c0b8118c06440a948fad1b51809612/icons/instagram.png" width="50px"></a> 
 <a href="https://x.com/mohwmmad_dev"><img src="https://github.com/mohwmmad-dev/mohwmmad-dev/blob/86fa88d9f3c0b8118c06440a948fad1b51809612/icons/x.png" width="50px"></a> 
 <a href="https://reddit.com/u/mohwmmad_dev"><img src="https://github.com/mohwmmad-dev/mohwmmad-dev/blob/86fa88d9f3c0b8118c06440a948fad1b51809612/icons/reddit.png" width="50px"></a> 
+
+# most used language :
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohwmmad-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
