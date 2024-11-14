@@ -1,4 +1,4 @@
-<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=mohwmmad-dev&data=followers,repositories,stars,commits&theme=nautilus">
+<p align="center"><img src="https://github-widgetbox.vercel.app/api/profile?username=mohwmmad-dev&data=followers,repositories,stars,commits&theme=nautilus"></p>
 
 ![](https://visitcount.itsvg.in/api?id=mohwmmad-dev&label=Profile%20Views&color=9&icon=8&pretty=true)
 
