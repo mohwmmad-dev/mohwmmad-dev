@@ -10,10 +10,9 @@
 
 # my skills
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,html,css,csharp,mysql&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=tailwind&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,javascript,html,css,php,tailwind,sass,git,github,mysql,vscode">
+</p>
 
 # find me :
 
